@@ -36,4 +36,3 @@ end
 def draw?(board)
 
 end
-
