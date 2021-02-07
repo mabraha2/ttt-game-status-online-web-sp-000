@@ -42,5 +42,5 @@ won?(board) || draw?(board)
 end
 
 def winner(board)
-  win?(board) && board[win?(board)[0]]
+  won?(board) && board[won?(board)[0]]
 end
